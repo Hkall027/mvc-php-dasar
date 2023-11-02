@@ -1,0 +1,43 @@
+• MVC artian dari ( MODEL - VIEW CONTROLLER )
+
+- "Pola arsitektur pada perancangan perangkat lunak berorientasi objek"
+- "Memisahkan anatara tampilan data dan proses"
+
+
+• KENAPA MVC
+
+- ORGANISASII DAN STRUKTUR KODE
+- PEMISAHAN LOGIC DAN TAMPILAN
+- PERAWATAN KODE
+- IMPLEMENTASI KONSEP OOP YANG SUDAH DIPELAJARI
+- DIGUNAKAN OLEH BANYAK WEB APPLICATION FREMEWORK
+- 
+
+• FREMEWORK MVC
+
+ • BAHASA		• FREMEWORK
+- PHP			- Codelgniter, Laravel, 
+- Java			- Spring MVC, JSF, Struts, dll
+- Python		- Django, CherryPy, dll
+- Ruby			- Ruby on Rails, Sinatra, dll
+- Javascript		- AngularJS, React, Backbone.js, dll
+
+• KINERJA MVC ATAU ( MODEL VIEW CONTROLLER )
+
+- MODEL
+ -Representasi Pengetahuan
+ -Mengolah Data
+ -Logika Bisnis
+
+- VIEW
+ -Output apa yang dipilih oleh user
+ -Representasi visual dari model
+ -Lapisan Presentasi
+
+- CONTROLLER
+ -Perantara antara model dan view
+ -Menangani pemrosesan pada aplikasi
+ -Menangani aksi dari user
+
+
+•
